@@ -1,0 +1,12 @@
+{
+  "nombre" : "Diego",
+  "apellido": "Hernandez",
+  "edad" : 20,
+  "aprendiz": true,
+  "lenguajes" : [
+    "python",
+    "javascript", 
+    "html",
+    "css",
+    "java"]
+}
